@@ -247,8 +247,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .brand-icon {
-  width: 42px;
-  height: 42px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   background: linear-gradient(135deg, var(--primary-forest), var(--accent-sage));
   display: flex;
